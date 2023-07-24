@@ -2,7 +2,7 @@ const timer = document.getElementById('myTimer');
 let second=29;
 let addOnes=document.getElementById('addOne');
 addOnes.addEventListener('click',function(){
-  return second=second+1;
+  return second= second+1;
 });
 let minOnes=document.getElementById('minOne');
 minOnes.addEventListener('click', function(){
