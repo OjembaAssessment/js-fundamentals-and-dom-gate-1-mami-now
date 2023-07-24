@@ -6,7 +6,7 @@ addOnes.addEventListener('click',function(){
 });
 let minOnes=document.getElementById('minOne');
 minOnes.addEventListener('click', function(){
-  return second=second-1;
+  return second= second-1;
 });
 let starts=document.getElementById('start');
 starts.addEventListener('click',function(){
